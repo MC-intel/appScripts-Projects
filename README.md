@@ -1,2 +1,2 @@
-A place for personal Javascript projects. 
+Random Javascript projects. 
 Email automation is handy. 
